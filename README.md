@@ -4,7 +4,7 @@ Master Deep Learning, and Break into AI
 Instructor: <a href="https://www.andrewng.org/">Andrew ng</a>
 
 # Introduction
-This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, Deep Learning Specialization on Coursera.
+This repo contains all my work for this specialization. All the code base and images, are taken from, unless specified, Deep Learning Specialization on Coursera.
 
 # Programming Assignments
 <p>Course 1: Neural Networks and Deep Learning</p>
